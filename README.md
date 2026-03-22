@@ -463,21 +463,5 @@ python event_detection_app.py
 
 ---
 
-## Roadmap
-
-- [ ] Multi-channel signal support
-- [ ] Load and apply a previously saved `.pt` model to a new signal without retraining
-- [ ] Manual annotation mode — click the signal plot to add/remove event regions and export corrected labels
-- [ ] Export detected events to CSV
-- [ ] Transformer-based sequence model as alternative to LSTM
-- [ ] Real-time detection from a live audio or serial stream
-
----
-
-## License
-
-MIT — see [LICENSE](LICENSE) for details.
-
----
 
 *Built with PyTorch · PyQtGraph · PyQt6 · NumPy · SciPy · PyWavelets · scikit-learn*
