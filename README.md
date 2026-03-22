@@ -32,6 +32,8 @@ Train a LSTM neural network to detect a time series event
 
 ---
 
+<img width="1438" height="763" alt="image" src="https://github.com/user-attachments/assets/695ef0ce-53f6-4f87-95b2-076530a42196" />
+
 ## Overview
 
 This project solves a common signal processing problem: **automatically detecting when and where short high-frequency events occur inside a longer, noisier baseline signal** — without hand-tuning thresholds.
