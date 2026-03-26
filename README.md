@@ -140,29 +140,11 @@ event_detection_pyqt_v2/
 
 ## Installation
 
-### One-shot setup (recommended)
-
-```bash
-# Download and run the setup script
-chmod +x setup_event_detection_pyqt_v2.sh
-./setup_event_detection_pyqt_v2.sh
-
-# Launch
-cd event_detection_pyqt_v2
-./run.sh
-```
-
-The script will:
-1. Create an `event_detection_pyqt_v2/` project folder
-2. Create an isolated Python virtual environment inside it
-3. Install all dependencies with `numpy<2` pinned for PyTorch compatibility
-4. Write `event_detection_app.py` and `run.sh`
-
 ### Manual setup
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/event-detection.git
+git clone https://github.com/megahady/event-detection.git
 cd event-detection
 
 # Create and activate a virtual environment
